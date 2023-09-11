@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Lato:wght@400;700&family=Roboto+Condensed:wght@400;700&display=swap');
+*/{
+font-family: 'Borel', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+table {
+margin-top: 10px;
+border: 2px solid yellow;
+border-collapse: collapse;
+}
+
+.darkyellow{
+background: #DBA800;
+}
+
+td,th {
+border: 2px solid yellow;
+padding: 50.5px;
+text-align: center;
+}
+
+td{
+background: blue;
+font-weight: lighter;
+color: white
+}
+
+th {
+background: yellow;
+}
+
+
+
+
+h1 {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.btn1 {
+    padding-inline: 63px;
+}
+
+.btn2 {
+    padding-inline: 47px;
+}
+
+.btn3 {
+    padding-inline: 35.5px;
+}
+
+.text1 {
+    padding-inline-end: 0px;
+}
+
+.text2 {
+    padding-inline-end: 0px;
+}
+
+.text3 {
+    padding-inline-end: 0px;
+}
